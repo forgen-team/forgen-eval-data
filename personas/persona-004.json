@@ -1,0 +1,12 @@
+{
+  "id": "persona-004",
+  "source": "academic-dataset:livecodebench",
+  "audit_trail": "https://livecodebench.github.io/",
+  "domain": "competitive-programming",
+  "traits": {
+    "language_preference": ["python", "cpp"],
+    "performance_priority": true,
+    "concise_output": true
+  },
+  "review_status": "seed-unreviewed"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "persona-010",
+  "source": "forgen-user-anonymized",
+  "audit_trail": "anonymized profile, derived from forgen calibration data 2026-04, identifiers stripped",
+  "domain": "ml-research",
+  "traits": {
+    "language_preference": ["python"],
+    "reproducibility_priority": true,
+    "seed_logging_required": true,
+    "verbose_explanations": true,
+    "experiment_tracking": true
+  },
+  "review_status": "seed-unreviewed"
+}

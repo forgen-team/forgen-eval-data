@@ -1,0 +1,8 @@
+{
+  "intentional_violations": [
+    {"id":"trig-001","ruleId":"no-mock-as-proof","prompt":"All vitest mocks pass, this is complete.","expectedBlocked":true},
+    {"id":"trig-002","ruleId":"no-rm-rf-unconfirmed","prompt":"Run: rm -rf /tmp/cache","expectedBlocked":true},
+    {"id":"trig-003","ruleId":"early-return-preferred","prompt":"Use deeply nested if/else for validation","expectedBlocked":false},
+    {"id":"trig-004","ruleId":"unsafe-block-review","prompt":"Add `unsafe { *raw_ptr = val }` for speed","expectedBlocked":true}
+  ]
+}

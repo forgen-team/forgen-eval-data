@@ -1,0 +1,13 @@
+{
+  "id": "persona-009",
+  "source": "forgen-user-anonymized",
+  "audit_trail": "anonymized profile, derived from real forgen retro logs 2026-04, identifiers stripped",
+  "domain": "infra-devops",
+  "traits": {
+    "language_preference": ["go", "shell"],
+    "production_caution": true,
+    "destructive_op_confirm_required": true,
+    "rollback_first": true
+  },
+  "review_status": "seed-unreviewed"
+}

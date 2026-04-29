@@ -1,0 +1,15 @@
+{
+  "id": "persona-008",
+  "source": "forgen-user-anonymized",
+  "audit_trail": "anonymized profile derived from forgen behavioral observations 2026-04, identifiers stripped, consent recorded out-of-band",
+  "domain": "typescript-tooling",
+  "traits": {
+    "language_preference": ["typescript"],
+    "test_first": true,
+    "docker_e2e_required": true,
+    "no_mock_completion_claims": true,
+    "verbose_explanations": false,
+    "early_return_preferred": true
+  },
+  "review_status": "seed-unreviewed"
+}

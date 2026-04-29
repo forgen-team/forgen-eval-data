@@ -1,0 +1,13 @@
+{
+  "id": "persona-007",
+  "source": "github-issue-corpus",
+  "audit_trail": "synthesized from N=40 Issue threads on rust-lang/rust and tokio-rs/tokio, anonymized",
+  "domain": "rust-systems",
+  "traits": {
+    "language_preference": ["rust"],
+    "memory_safety_priority": true,
+    "verbose_explanations": true,
+    "unsafe_block_alarm": true
+  },
+  "review_status": "seed-unreviewed"
+}

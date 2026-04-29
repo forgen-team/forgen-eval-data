@@ -1,0 +1,13 @@
+{
+  "id": "persona-005",
+  "source": "github-issue-corpus",
+  "audit_trail": "synthesized from N=50 public Issue threads on django/django, anonymized",
+  "domain": "django-orm",
+  "traits": {
+    "language_preference": ["python"],
+    "migration_caution": true,
+    "test_first": true,
+    "rollback_plans_required": true
+  },
+  "review_status": "seed-unreviewed"
+}

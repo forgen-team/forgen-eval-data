@@ -1,0 +1,13 @@
+{
+  "id": "persona-006",
+  "source": "github-issue-corpus",
+  "audit_trail": "synthesized from N=30 Issue threads on facebook/react and vercel/next.js, anonymized",
+  "domain": "react-nextjs",
+  "traits": {
+    "language_preference": ["typescript"],
+    "performance_priority": true,
+    "ssr_default": true,
+    "verbose_explanations": false
+  },
+  "review_status": "seed-unreviewed"
+}

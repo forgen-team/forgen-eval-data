@@ -1,0 +1,13 @@
+{
+  "id": "persona-002",
+  "source": "academic-dataset:swe-bench-v2",
+  "audit_trail": "https://www.swebench.com/v2-schema",
+  "domain": "javascript-frontend",
+  "traits": {
+    "language_preference": ["typescript"],
+    "test_first": false,
+    "verbose_explanations": true,
+    "framework_preference": ["react"]
+  },
+  "review_status": "seed-unreviewed"
+}

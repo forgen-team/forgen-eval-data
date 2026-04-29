@@ -1,0 +1,13 @@
+{
+  "id": "persona-003",
+  "source": "academic-dataset:humaneval-derivative",
+  "audit_trail": "https://github.com/openai/human-eval",
+  "domain": "algorithm-implementation",
+  "traits": {
+    "language_preference": ["python"],
+    "verbose_explanations": false,
+    "minimal_dependencies": true,
+    "complexity_aware": true
+  },
+  "review_status": "seed-unreviewed"
+}
